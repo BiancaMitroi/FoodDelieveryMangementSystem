@@ -1,0 +1,8 @@
+Order id: 5
+Client username: MODEL.User@52c65014
+Order date: 2022-05-10T12:08:58.811555600
+Ordered items:
+title rating calories protein fat sodiun price
+[Vietnamese Beef Soup with Star Anise  4.375 667 46 31 749 57
+]
+ Total price: 57
